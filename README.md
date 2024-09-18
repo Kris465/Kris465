@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdjaGd4ejF0endmN3FtMW91bmZrbm9na3gyc3lnaWNka3h5ODduOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ToMjGpuatWk6Evj2JW0/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzBpOHJ3eWJsMjRkOTE1NXF6ZDB2MHA1azR5Ynhqa29vcXpxYWR5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F0oAd0YK3g69tNkLbQ/giphy.gif" width="100"/>
 </div>
 <div id="badges">
   <a href="your-linkedin-URL">
