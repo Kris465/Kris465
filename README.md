@@ -1,3 +1,13 @@
+### :sparkles: home/my/
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzBpOHJ3eWJsMjRkOTE1NXF6ZDB2MHA1azR5Ynhqa29vcXpxYWR5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F0oAd0YK3g69tNkLbQ/giphy.gif" width="100"/>
+</div>
+<div align= center id="badges">
+  <a href="https://vk.com/yinyanmanga">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
+  </a>
+</div>
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="ArchLinux" alt="ArchLinux" width="40" height="40"/>&nbsp;
@@ -26,13 +36,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kris465&theme=dark)](https://git.io/streak-stats)
 ===
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kris465&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### :sparkles: home/my/
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzBpOHJ3eWJsMjRkOTE1NXF6ZDB2MHA1azR5Ynhqa29vcXpxYWR5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F0oAd0YK3g69tNkLbQ/giphy.gif" width="100"/>
-</div>
-<div align= center id="badges">
-  <a href="https://vk.com/yinyanmanga">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
-  </a>
-</div>
