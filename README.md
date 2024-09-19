@@ -33,4 +33,5 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kris465&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kris465)](https://github.com/anuraghazra/github-readme-stats)
+===
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kris465)](https://github.com/anuraghazra/github-readme-stats)
