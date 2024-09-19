@@ -31,4 +31,5 @@
 </div>
 
 ### :fire: My Stats :
-<figure><embed src="https://wakatime.com/share/@01a0ddce-d77e-44ce-8357-3088f8321cdd/4b4020bf-ba42-4a20-9827-ad88b9c57833.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@01a0ddce-d77e-44ce-8357-3088f8321cdd/6fc384ef-1e25-4a90-913f-dd586bd626f2.svg"></embed></figure>
