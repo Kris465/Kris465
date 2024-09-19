@@ -34,6 +34,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kris465&theme=dark)](https://git.io/streak-stats)
 ===
-<div>
-  <figure><embed src="https://wakatime.com/share/@01a0ddce-d77e-44ce-8357-3088f8321cdd/a5ba69b2-e81e-4f96-81ef-d35ef4436493.svg"></embed></figure>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kris465)](https://github.com/anuraghazra/github-readme-stats)
