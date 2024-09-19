@@ -34,5 +34,5 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kris465&theme=dark)](https://git.io/streak-stats)
 ===
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kris465&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kris465&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kris465&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
