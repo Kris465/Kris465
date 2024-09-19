@@ -29,3 +29,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
 </div>
+
+### :fire: My Stats :
+<figure><embed src="https://wakatime.com/share/@01a0ddce-d77e-44ce-8357-3088f8321cdd/4b4020bf-ba42-4a20-9827-ad88b9c57833.svg"></embed></figure>
