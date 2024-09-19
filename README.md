@@ -32,4 +32,4 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kris465)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kris465&theme=dark)](https://git.io/streak-stats)
