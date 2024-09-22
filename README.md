@@ -36,5 +36,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kris465&theme=dark)](https://git.io/streak-stats)
 ===
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kris465&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-===
-[![wakatime](https://wakatime.com.vercel.app/api/top-langs/?username=Kris465)](https://wakatime.com/@01a0ddce-d77e-44ce-8357-3088f8321cdd)
