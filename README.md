@@ -37,4 +37,4 @@
 ===
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kris465&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ===
-![](https://github-readme-stats.vercel.app/api/wakatime/?uername=Kris465&theme=dark)
+![](https://github-readme-stats.vercel.app/api/wakatime/?username=Kris465&theme=dark)
