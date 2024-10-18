@@ -38,3 +38,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kris465&layout=pie&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 ===
 ![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=Kris465&layout=pie&theme=default)
+===
+![Static Badge](https://img.shields.io/badge/:badgeContent)
