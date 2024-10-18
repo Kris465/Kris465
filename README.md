@@ -33,10 +33,8 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kris465&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kris465&theme=dark)](https://git.io/streak-stats)
 ===
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kris465&layout=pie&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kris465&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ===
-![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=Kris465&layout=pie&theme=default)
-===
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=Kris465&layout=pie&theme=dark)
