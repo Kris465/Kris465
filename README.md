@@ -32,6 +32,6 @@
 </div>
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kris465&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kris465&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ===
-![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=Kris465&layout=pie&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=Kris465&layout=pie&theme=radical)
