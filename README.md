@@ -35,9 +35,7 @@
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kris465&layout=pie&theme=deepblue" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kris465&layout=pie&theme=blueberry" alt="Top Langs" />
     </a>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kris465&layout=pie&theme=deepblue" alt="Wakatime Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kris465&layout=pie&theme=blueberry" alt="Wakatime Stats" />
 </div>
-
-
