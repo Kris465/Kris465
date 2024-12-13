@@ -31,7 +31,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kris465&layout=pie&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
-===
-![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=Kris465&layout=pie&theme=calm)
+<h3 align="center">:fire: My Stats :</h3>
+
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kris465&layout=pie&theme=calm" alt="Top Langs" />
+    </a>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kris465&layout=pie&theme=calm" alt="Wakatime Stats" />
+</div>
+
+
